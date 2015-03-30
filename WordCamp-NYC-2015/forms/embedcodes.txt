@@ -1,0 +1,9 @@
+2014
+[googleapps domain="docs" dir="forms/d/10aorJp4KZ83VLj2ozOLNSgBX5zXidxHBeqJyb7i7EgQ/viewform" query="embedded=true" width="900" height="1025" /]
+
+2015
+[googleapps domain="docs" dir="forms/d/1_iFo6eowwEeThtykEtS_2160SHBNIkVBJHaFeR33SO8/viewform" query="embedded=true" width="900" height="1025" /]
+https://docs.google.com/forms/d/1_iFo6eowwEeThtykEtS_2160SHBNIkVBJHaFeR33SO8/edit#
+
+2015 contact form
+[contact-form subject='WordCamp Sponsor Request'][contact-field label='Contact Name' type='text' required='1'/][contact-field label='Company Name' type='name' required='1'/][contact-field label='Email' type='email' required='1'/][contact-field label='Phone Number' type='text' required='1'/][contact-field label='Company Website' type='url' required='1'/][contact-field label='Sponsorship Level' type='text'/][contact-field label='Why Would you Like to Sponsor WordCamp?' type='textarea' required='1'/][contact-field label='Questions / Comments' type='textarea'/][/contact-form]
