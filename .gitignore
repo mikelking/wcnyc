@@ -1,4 +1,5 @@
 .DS_Store
+Icon*
 WordCamp-NYC-2015/2015_wcmia_sponsorships.pdf
 WordCamp-NYC-2015/Budget
 WordCamp-NYC-2015/Icon*
@@ -6,7 +7,7 @@ WordCamp-NYC-2015/Site-Code/backups
 WordCamp-NYC-2015/Speaker
 WordCamp-NYC-2015/Sponsorship
 WordCamp-NYC-2015/Venue
-WordCamp-NYC-2015/Volunteers
+#WordCamp-NYC-2015/Volunteers
 WordCamp-NYC-2015/WCNYC-2014.zip
 WordCamp-NYC-2015/WCNYC-2015-Vision.gdoc
 WordCamp_NYC_2015-Dashboard.gsheet
